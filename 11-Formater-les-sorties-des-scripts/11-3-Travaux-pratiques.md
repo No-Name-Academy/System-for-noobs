@@ -182,11 +182,6 @@ Write-Host "`nRapport généré :`n- CSV: $csvPath`n- HTML: $htmlPath" -Foregrou
    - Affiche les chemins des fichiers générés.
 
 ---
-### **Exemple de sortie HTML** :
-![Exemple de rapport HTML](https://i.imgur.com/ABC5678.png)
-*(Un rapport structuré avec des sections claires et un style CSS.)*
-
----
 ### **Bonus : Automatisation avec une tâche planifiée**
 Pour exécuter ce script **quotidiennement à 8h** :
 ```powershell

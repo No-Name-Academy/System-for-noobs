@@ -133,10 +133,6 @@ Get-Volume | Select-Object -Property DriveLetter, FileSystemLabel, @{
 - `ConvertTo-Html` : Convertit les objets en tableau HTML.
 - `-Title` : Ajoute un titre au rapport.
 
-**Sortie** :
-![Exemple de rapport HTML](https://i.imgur.com/XYZ1234.png)
-*(Un tableau HTML avec les colonnes spécifiées.)*
-
 ---
 
 #### **1.2.3. Export TXT (`Out-File`)**

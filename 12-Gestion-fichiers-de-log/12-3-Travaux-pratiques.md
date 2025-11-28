@@ -210,10 +210,6 @@ Write-MetricLog -message "=== Fin de la surveillance ==="
    - Utilise des **classes CSS** (`warning`, `error`) pour colorer les lignes.
    - Affiche un tableau clair avec les métriques.
 
-**Exemple de sortie HTML** :
-![Exemple de rapport HTML](https://i.imgur.com/XYZ1234.png)
-*(Un tableau avec les métriques, coloré selon le niveau de gravité.)*
-
 ---
 ### **Planification du script**
 Pour exécuter ce script **toutes les 5 minutes** en arrière-plan :

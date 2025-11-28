@@ -1,4 +1,4 @@
-## **4. Synthèse et bonnes pratiques **
+## **4. Synthèse et bonnes pratiques**
 
 ### **4.1. Résumé des concepts clés**
 - **Modularité** : Divisez le script en **fonctions réutilisables**.
